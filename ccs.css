@@ -138,6 +138,11 @@ section{
     background-size: cover;
 }
 
+#desk727{
+    background-image: url(img/desk727.png);
+    background-size: cover;
+}
+
 #atc{
     background-image: url(img/channels4_profile.jpg);
     background-size: cover;
@@ -152,6 +157,16 @@ section{
     background-image: url(img/suff.png);
     background-size: cover;
     background-position: center;
+}
+
+#atl{
+    background-image: url(img/4.png);
+    background-size: cover;
+}
+
+h2{
+    color: rgb(214, 214, 214);
+    margin: 1.3rem;
 }
 
 footer{
