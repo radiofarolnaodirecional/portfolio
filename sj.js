@@ -6,58 +6,15 @@ var box5 = document.querySelector("#floatbx5")
 var box6 = document.querySelector("#floatbx6")
 
 
-function bxappear(){
-    box1.style.display = "block";
+function bxappear(arg){
+    arg.style.display = "block";
 }
 
-function bxhide(){
-    box1.style.display = "none";
+function bxhide(arg){
+    arg.style.display = "none";
 }
 
-////////////////////////////////////////////////
-function bxappear2(){
-    box2.style.display = "block";
-}
 
-function bxhide2(){
-    box2.style.display = "none";
-}
-
-////////////////////////////////////////////////
-function bxappear3(){
-    box3.style.display = "block";
-}
-
-function bxhide3(){
-    box3.style.display = "none";
-}
-
-////////////////////////////////////////////////
-function bxappear4(){
-    box4.style.display = "block";
-}
-
-function bxhide4(){
-    box4.style.display = "none";
-}
-
-////////////////////////////////////////////////
-function bxappear5(){
-    box5.style.display = "block";
-}
-
-function bxhide5(){
-    box5.style.display = "none";
-}
-
-////////////////////////////////////////////////
-function bxappear6(){
-    box6.style.display = "block";
-}
-
-function bxhide6(){
-    box6.style.display = "none";
-}
 
 
 
