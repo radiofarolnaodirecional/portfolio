@@ -121,14 +121,14 @@ section{
     background-size: cover;
 }
 
-#emb{
-    background-image: url(img/emb.png);
+#amp{
+    background-image: url(img/webamp.png);
     background-size: cover;
     background-position: center;
 }
 
-#sh{
-    background-image: url(img/sh.png);
+#pp{
+    background-image: url(img/pp.png);
     background-size: cover;
     background-position: center;
 }
@@ -161,6 +161,16 @@ section{
 
 #atl{
     background-image: url(img/4.png);
+    background-size: cover;
+}
+
+#plane{
+    background-image: url(img/plane.png);
+    background-size: cover;
+}
+
+#apt{
+    background-image: url(img/mcl.png);
     background-size: cover;
 }
 
