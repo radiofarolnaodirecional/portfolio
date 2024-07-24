@@ -159,6 +159,12 @@ section{
     background-position: center;
 }
 
+#cort{
+    background-image: url(img/cort.png);
+    background-size: cover;
+    background-position: center;
+}
+
 #atl{
     background-image: url(img/4.png);
     background-size: cover;
