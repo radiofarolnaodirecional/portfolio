@@ -180,6 +180,11 @@ section{
     background-size: cover;
 }
 
+#lut{
+    background-image: url(img/lut.jpg);
+    background-size: cover;
+}
+
 h2{
     color: rgb(214, 214, 214);
     margin: 1.3rem;
