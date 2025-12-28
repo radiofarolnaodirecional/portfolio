@@ -110,14 +110,14 @@ section{
     color: rgb(214, 214, 214);
 }
 
-#rn{
+#rm{
     background-image: url(img/rm.png);
     background-size: cover;
     background-position: center;
 }
 
-#a727{
-    background-image: url(img/727w.png);
+#fb{
+    background-image: url(img/fb.png);
     background-size: cover;
 }
 
